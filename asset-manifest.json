@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/med-assist/static/css/main.36c5c196.chunk.css",
+    "main.js": "/med-assist/static/js/main.b39d0a30.chunk.js",
+    "main.js.map": "/med-assist/static/js/main.b39d0a30.chunk.js.map",
+    "runtime-main.js": "/med-assist/static/js/runtime-main.3ca46f6a.js",
+    "runtime-main.js.map": "/med-assist/static/js/runtime-main.3ca46f6a.js.map",
+    "static/js/2.1e4b8d7d.chunk.js": "/med-assist/static/js/2.1e4b8d7d.chunk.js",
+    "static/js/2.1e4b8d7d.chunk.js.map": "/med-assist/static/js/2.1e4b8d7d.chunk.js.map",
+    "index.html": "/med-assist/index.html",
+    "precache-manifest.aafa14bbde22e93f0371ee6c2c4ff6e2.js": "/med-assist/precache-manifest.aafa14bbde22e93f0371ee6c2c4ff6e2.js",
+    "service-worker.js": "/med-assist/service-worker.js",
+    "static/css/main.36c5c196.chunk.css.map": "/med-assist/static/css/main.36c5c196.chunk.css.map",
+    "static/js/2.1e4b8d7d.chunk.js.LICENSE.txt": "/med-assist/static/js/2.1e4b8d7d.chunk.js.LICENSE.txt",
+    "static/media/cancel.png": "/med-assist/static/media/cancel.cfdbafe3.png",
+    "static/media/letter-i.png": "/med-assist/static/media/letter-i.114c0496.png",
+    "static/media/logo.png": "/med-assist/static/media/logo.0a9b8765.png",
+    "static/media/logo.svg": "/med-assist/static/media/logo.7c583c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca46f6a.js",
+    "static/js/2.1e4b8d7d.chunk.js",
+    "static/css/main.36c5c196.chunk.css",
+    "static/js/main.b39d0a30.chunk.js"
+  ]
+}
